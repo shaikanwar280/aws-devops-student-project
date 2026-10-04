@@ -33,7 +33,7 @@ Terraform → tracks the existing EC2 infrastructure
 - **Region:** `ap-south-1` (Mumbai)
 - **Application port:** `3000`
 - **Public web port:** `80`
-- **GitHub repository:** [sandy1876/aws-devops-student-project](https://github.com/sandy1876/aws-devops-student-project)
+- **GitHub repository:** [sandy1876/aws-devops-student-project](https://github.com/shaikanwar280/aws-devops-student-project.git)
 - **Docker Hub image:** `sandy1876/aws-devops-student-project:latest`
 
 ## CI/CD workflow
